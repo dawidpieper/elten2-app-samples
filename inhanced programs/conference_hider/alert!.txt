@@ -1,0 +1,1 @@
+this program worked with older versions of elten2.4, but now it doesn't. because in Conference.edit there is one more argument added in new version. please fix it.

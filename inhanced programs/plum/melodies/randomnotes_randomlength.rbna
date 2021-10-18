@@ -1,0 +1,4 @@
+[
+[rand(11),rand(101)+100]
+]*25
+#the song is multiplied by 25, it will play random note 25 times.

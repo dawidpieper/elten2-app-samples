@@ -1,0 +1,6 @@
+$repla=inputbox("hello","what to replace")
+$replb=inputbox("hello","what to replace with")
+$r=fileread("bopit.rb")
+$file=fileopen("bopit.rb",2)
+$r=stringreplace($r,$repla,$replb)
+filewrite($file,$r)
